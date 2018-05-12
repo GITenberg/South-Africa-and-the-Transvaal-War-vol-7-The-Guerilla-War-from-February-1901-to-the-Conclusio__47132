@@ -1,10 +1,16 @@
 _repo: South-Africa-and-the-Transvaal-War-vol-7-The-Guerilla-War-from-February-1901-to-the-Conclusio__47132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Creswicke, Louis
     gutenberg_agent_id: '25997'
     url: http://www.gutenberg.org/2009/agents/25997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47132#South-Africa-and-the-Transvaal-War-vol-7-The-Guerilla-War-from-February-1901-to-the-Conclusio_
 gutenberg_issued: '2014-10-16'
 gutenberg_type: Text
 identifiers:
